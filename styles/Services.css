@@ -1,0 +1,24 @@
+.services {
+    padding: 40px 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.services h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.services ul {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: left;
+    list-style: none;
+    padding: 0;
+}
+
+.services ul li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+}

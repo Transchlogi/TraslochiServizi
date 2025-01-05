@@ -1,0 +1,36 @@
+/* Hero Section Styles */
+.hero-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+  .hero-container {
+    height: 250px; /* Smaller height for mobile */
+    background-size: contain; /* Adjust image to fit smaller screens */
+  }
+
+  .hero-title {
+    font-size: 1.5rem; /* Smaller font size for mobile */
+    line-height: 1.8rem;
+  }
+
+  .hero-description {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+
+  .hero-button {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+}
+
+/* Button Hover Effect */
+.hero-button:hover {
+  transform: scale(1.05);
+}
