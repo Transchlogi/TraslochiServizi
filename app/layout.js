@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
         >
           {/* WhatsApp Button */}
           <a
-            href="https://wa.me/3930422145" // Replace with your WhatsApp number
+            href="https://wa.me/+393930422145" // Replace with your WhatsApp number
             target="_blank"
             rel="noopener noreferrer"
             style={{
