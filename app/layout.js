@@ -1,6 +1,7 @@
 export const metadata = {
-  title: 'Translochi Servizi',
-  description: 'SVUOTATUTTO i più ECONOMICI SGOMBERI, TRASLOCHI a VERONA e PROVINCIA',
+  title: 'Traslochi Servizi - Verona  | Sgomberi ed Economici',
+  description: 'Hai bisogno di un trasloco veloce ed economico a Verona? Offriamo traslochi, sgomberi e servizi di imballaggio professionali per case e uffici. Contattaci ora!',
+  keywords: 'traslochi Verona, traslochi economici Verona, sgomberi Verona, trasloco casa, trasloco ufficio, trasloco veloce, servizi di trasporto mobili Verona'
 };
 
 export default function RootLayout({ children }) {
